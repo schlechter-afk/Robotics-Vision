@@ -1,12 +1,6 @@
 # Robotics-Vision
 *Implementations and explorations of several pipelines and algorithms in Robotic Vision, as part of the Mobile Robotics (Monsoon 2023) class.*
 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/43912285/105778545-9aafab80-5f92-11eb-8451-2cd011412f9d.png" width=400>
-</p>
-
-
 ## Contents
 
 ### Transformations-And-Mapping
